@@ -27,7 +27,7 @@ Here are some examples example calls for the functions:
 Consult the greenjobs.js file for more details on the functions
 
 #Credits
-```
 Uses the [Underscore](http://underscore.js.org) library. 
+```
 Josephine Garces is the original writer functions.
 ```
