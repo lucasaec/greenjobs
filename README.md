@@ -25,4 +25,7 @@ Here are some examples example calls for the functions:
 ```
 
 Consult the greenjobs.js file for more details on the functions
-Uses the [Underscore](http://underscore.js.org) library.
+
+#Credits
+Uses the [Un derscore](http://underscore.js.org) library.
+Josephine Garces'sis the original writer functions.
