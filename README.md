@@ -6,23 +6,23 @@ It contains functions for an array called greenjobs, which contains information 
 
 #Installation
 
-***
+...
 <script src="//philipmjohnson.github.io/ics314f15/morea/underscore/underscore-min.js"></script>
 <script src="//philipmjohnson.github.io/ics314f15/morea/underscore/greenjobs.js"></script>
 <script src="greenjobs.js"></script>
-***
+...
 
 #Usage
 
 Here are some examples example calls for the functions:
 
-***
+...
 <script>
    console.log(listIndustries(greenjobs));
    console.log(countyGreenJobs(greenjobs));
    console.log(jobswithKeyword(greenjobs, "PV") );
 </script>
-***
+...
 
 Consult the greenjobs.js file for more details on the functions
 Uses the [Underscore](http://underscore.js.org) library.
