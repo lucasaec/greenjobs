@@ -29,5 +29,5 @@ Consult the greenjobs.js file for more details on the functions
 #Credits
 Uses the [Underscore](http://underscore.js.org) library. 
 ```
-Josephine Garces is the original writer functions.
+The functions within the JavaScript file were written by Josephine Garces .
 ```
